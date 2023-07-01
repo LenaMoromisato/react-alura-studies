@@ -31,6 +31,18 @@ Também criamos um componente com function component (a forma mais atual de se e
 * **Utilizar o método map para renderizar arrays:** <br>
 Renderizamos arrays de JSX com o método map, mostrando que assim conseguimos aproveitar parte do JSX e mudar apenas o valor de item para item, utilizando assim o princípio DRY (Don't Repeat Yourself).
 
+* **Usar o CSS inline:** <br>
+Aprendemos como criar o CSS inline direto no atributo, como variável JS e utilizando condicionais para mudar o estilo.
+
+* **Utilizar CSS e Sass no projeto:** <br>
+Vimos como importar CSS e SASS no projeto é fácil dentro de um projeto criado com Create React App.
+
+* **Colocar o CSS Modules em um projeto com Create React App + Typescript:** <br>
+Configuramos o projeto para aceitar CSS Modules.
+
+* **Vantagens de se utilizar CSS Modules:** <br>
+Discutimos as vantagens de se utilizar CSS Modules na aplicação.
+
 -----
 
 # Getting Started with Create React App
