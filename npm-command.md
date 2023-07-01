@@ -7,3 +7,6 @@ npm start
 
 * Instalar o SASS (pré-processador CSS):
 npm install --save-dev sass
+
+* Instalar CSS modules:
+npm install -D typescript-plugin-css-modules
