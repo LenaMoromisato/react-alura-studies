@@ -10,3 +10,7 @@ npm install --save-dev sass
 
 * Instalar CSS modules:
 npm install -D typescript-plugin-css-modules
+
+* Instalar I UUID:
+npm i uuid
+npm i --save-dev @types/uuid
