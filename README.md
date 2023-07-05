@@ -55,6 +55,22 @@ Entendemos mais a fundo como o React trabalha com arrays, e como o key é import
 * **Usar spread operator de forma consciente para passar props para os componentes:** <br>
 Utilizamos o spread operator para poder passar todos os itens de um objeto como props para o componente, também pensamos como isso pode se tornar um problema.
 
+* **O React utiliza os estados para atualizar os componentes:** <br>
+Aprendemos como o React guarda informações que serão importantes para uma possível nova renderização de um componente.
+
+* **Criar estados com function components e class components:** <br>
+Criamos estados tanto com function components quanto com class components, entendendo como se cria esses estados em cada tipo.
+
+* **Controlar campos de um Formulário com estados:** <br>
+Aprendemos a diferença de um formulário/input controlado e não controlado, e como podemos controlá-los para pegar/mudar seus campos como quisermos.
+
+* **Criar interfaces e reutilizá-las:** <br>
+Vimos como o Typescript nos dá uma forma de criar interfaces para podermos descrever tipos mais complexos, como os props dos componentes.
+
+* **Utilizar props e para informar uma mudança de estado:** <br>
+Utilizamos a junção de props + state para podermos passar state para outros componentes e para podermos avisar que um estado deve ser mudado.
+
+
 -----
 
 # Getting Started with Create React App
