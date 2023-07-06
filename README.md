@@ -70,6 +70,17 @@ Vimos como o Typescript nos dá uma forma de criar interfaces para podermos desc
 * **Utilizar props e para informar uma mudança de estado:** <br>
 Utilizamos a junção de props + state para podermos passar state para outros componentes e para podermos avisar que um estado deve ser mudado.
 
+* **Compartilhar valores comuns entre componentes:** <br>
+Aprendemos como criar um estado que será compartilhado entre vários componentes.
+
+* **Extender interfaces:** <br>
+Usamos a facilidade de estender uma interface dentro de outra interface para reaproveitar código.
+
+* **Adicionar classes CSS de forma condicional:** <br>
+Aprendemos a utilizar um ternário para mudar classes CSS de uma tag baseada em alguma prop com template string.
+
+* **Criar pastas utilitárias:** <br>
+Debatemos sobre formas de criar pastas com funções utilitárias compartilhadas na aplicação.
 
 -----
 
